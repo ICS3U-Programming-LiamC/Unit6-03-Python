@@ -1,0 +1,3 @@
+NUM_NUMS = 10
+MAX = 100
+MIN = 0
